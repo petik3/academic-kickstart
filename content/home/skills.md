@@ -33,10 +33,13 @@ subtitle = ""
   name = "macOS"
 
 [[feature]]
+  name = "tvOS"
+
+[[feature]]
   name = "Git"
 
 [[feature]]
-  name = "Fastlane"
+  name = "CI"
 
 
 +++

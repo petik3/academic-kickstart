@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: iOS Developer
+role: iOS/macOS/tvOS Developer
 
 # Organizations/Affiliations
 #organizations:
@@ -61,4 +61,4 @@ email: ""
 #- Visitors
 ---
 
-Experienced iOS developer with wide knowledge of other Apple platforms and strong focus on video and UI/UX related technologies. Msc background in Computer Science, plenty of experience working in different environments (enterprise, research lab, software agency, freelancing).
+Experienced iOS developer with wide knowledge of other Apple platforms and focus on video and UI/UX related technologies. Msc background in Computer Science, plenty of experience working in different environments (enterprise, research lab, software agency, freelancing).

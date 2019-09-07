@@ -19,22 +19,41 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Research Associate"
-  company = "Hungarian Academy of Sciences - Institute for Computer Science and Control"
-  company_url = "https://www.sztaki.hu/en"
-  location = "Budapest, Hungary"
-  date_start = "2008-09-01"
-  date_end = "2012-09-01"
-  description = """ """
+    title = "Research Associate"
+    company = "Hungarian Academy of Sciences - Institute for Computer Science and Control"
+    company_url = "https://www.sztaki.hu/en"
+    location = "Budapest, Hungary"
+    date_start = "2008-09-01"
+    date_end = "2012-09-01"
+    description = """
+    * in-house iOS development
+    * Web frontend development
+    * Experience in academic environment
+    """
 
 [[experience]]
-  title = "iOS Developer"
-  company = "iMind Inc."
-  company_url = "http://imind.eu"
-  location = "Budapest, Hungary"
-  date_start = "2012-09-01"
-  date_end = "2014-12-01"
-  description = """ """
+    title = "iOS Developer"
+    company = "iMind Inc."
+    company_url = "http://imind.eu"
+    location = "Budapest, Hungary"
+    date_start = "2012-09-01"
+    date_end = "2014-12-01"
+    description = """
+    * Small to mid-scale iOS projects
+    * Agile methodology, working in small teams
+    * Experience in agency work style
+    """
+
+[[experience]]
+    title = "iOS Developer"
+    company = "Freelancing"
+    date_start = "2014-11-01"
+    date_end = ""
+    description = """
+    * Contract based iOS projects
+    * Working with clients directly
+    * Time management, full responsibility
+    """
 
 [[experience]]
     title = "Senior iOS / macOS Developer"
@@ -44,10 +63,8 @@ date_format = "Jan 2006"
     date_start = "2014-12-01"
     date_end = ""
     description = """
-    Responsibilities include:
-
-    *
-    *
-    *
+    * iOS/macOS/tvOS SDK Development
+    * Collaborative development of big scale projects
+    * Experience in startup and corporate environment
     """
 +++
